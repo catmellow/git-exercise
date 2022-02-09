@@ -8,7 +8,7 @@
 This exercise helps to use `Git` and `Github`. You can also find some helpful git commands below.
 
 > :bulb: Some useful git commands,
-> :::spoiler
+> 
 >  * git remote or git remote -v to view / display any existing remotes for our repo.`git remote add <name> <url>` to add new a remote
 >  * To clone a repo ,  `git clone <url>`. Make sure that you are not inside of a repo when you clone !
 >  * `git diff HEAD [filename]`
@@ -27,7 +27,7 @@ This exercise helps to use `Git` and `Github`. You can also find some helpful gi
 >  *  git revert is similar to git reset , they both UNDO changes
 >  * git reset actually moves the branch pointer backwards, eliminating commits
 >  * git revert creates a brand new commit which reverses/undos the change from a commit. Because it results in a new commit, you will be prompted to enter a commit message.----> commit still there but changes are undo
-> ::: 
+
 
 :rocket: 
 ---
